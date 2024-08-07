@@ -1,0 +1,17 @@
+{
+  "name": "msw-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "msw": "^2.3.5",
+    "typescript": "^5.5.4",
+    "vitest": "^2.0.5"
+  }
+}
